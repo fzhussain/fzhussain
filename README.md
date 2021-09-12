@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on Frontend Web and Mobile Devvelopment, Machine Learning and Artificial Intelligence.
+- 🔭 I’m currently working on Frontend Web and Mobile Development, Machine Learning and Artificial Intelligence.
 - 🌱 I’m currently learning .. Fulll stack development, Artificial Intelligence
 - 👯 I’m looking to collaborate on Open-Source Projects | Hackathons
 - 💬 Ask me about Front-end Technologies
